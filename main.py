@@ -1,2 +1,2 @@
-:i
+
 print("hii")
