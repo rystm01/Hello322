@@ -1,1 +1,2 @@
-print("hi")
+:i
+print("hii")
